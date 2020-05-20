@@ -7,7 +7,7 @@
 [config]
 name = [Forge Mod Loader] 1.12.2
 source = https://cdn.getbukkit.org/spigot/spigot-1.12.2.jar
-configSource = 
+configSource = https://raw.githubusercontent.com/SweenerMC/forge/master/modloader
 
 [encoding]
 encode = utf-8
